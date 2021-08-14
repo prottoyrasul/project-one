@@ -1,0 +1,21 @@
+body{
+
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.first-one{
+
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+
+    width: 100%;
+    
+}
