@@ -27,9 +27,34 @@ section{
 
 .button-change{
 text-decoration: none;
-background-color: coral;
+background-image: linear-gradient(45deg, rgb(190, 64, 50) tomato);
 padding: 10px 20px;
 border-radius: 5px;
 color: white;
 font-weight: 700px;
+}
+.space-dao{
+    margin: 10%;
+}
+.border-dibo{
+    box-shadow: 10px 10px 40px grey;
+    height: 60%;
+    border-radius: 5px;
+
+}
+#first-dao{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+   
+#secomd-dao{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
